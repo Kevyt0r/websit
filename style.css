@@ -5,7 +5,7 @@ body{
 }
 .header{
     background-color: #2A88E6;
-    color: #ffffff;
+    color: #ffff;
     font-family: 'Poppins',sans-serif;
     margin-bottom: 10px;
     letter-spacing: 0.5px;
@@ -13,7 +13,7 @@ body{
     }
 
     .txt-count{
-      color: #EDF0F5;
+      color: #fbb034;
       font-size: 18px;
       text-align: right;
       margin-left: 15px;
@@ -21,7 +21,7 @@ body{
     }
     
     .nu-count{
-          color: #EDF0F5;
+          color: #00a4e4;
           font-size: 18px;
           text-align: right;
           margin-left: 12px;
@@ -48,11 +48,11 @@ h5{
 
 
 .about {float: left;
-  width: 600px;
-  height: 400px;
+  width: 400px;
+  height: 300px;
   padding: 0 10px 0 0;
-  margin-right: 30px;
-  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-bottom: 10px;
 }
 .glitter{
     margin-top: 20px;
@@ -127,20 +127,21 @@ p{
       }
   }
 .footertion{
-    background-color: #2A88E6;
+    background-color: #eeeeee;
   }
 .footertion .glitter, section {
   text-align: center;
   padding: 8px;
 }
 iframe{
-  margin-bottom: 50px;
+  margin-bottom: 25px;
+  margin-top: 25px;
 }
 .wrapper{
   height: 100px;
   width: 500px;
   position: relative;
-  background: linear-gradient(135deg, #14ffe9, #ffeb3b, #ff00e0);
+  background: linear-gradient(135deg, #FBB034, #00A4E4, #ff0000);
   border-radius: 10px;
   margin-bottom: 60px;
   margin-top: 50px;
